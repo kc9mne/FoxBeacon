@@ -14,3 +14,8 @@ poweron.mp3
 00002.mp3
 00003.mp3
 ect..
+
+![image](https://github.com/user-attachments/assets/dfcc6223-f927-4b0a-a17d-2a187870ca5c)
+
+The DAC pin is the linelevel out for the radios mic input, on a baofeng or other kenwood compatable radios this is the left channel on the 3.5mm stereo plug
+The ground on the other side of the board is both the ground for the mic jack and the power to the board.
