@@ -1,1 +1,3 @@
-/media
+This folder contains all the media files that get loaded on the XL9300 board.
+This will make an ID tone on startup, then run a series of intro clips and fox jokes followed by 30 sec of homing noises, then 30sec of silence. then repeat.
+replace ID with your callsign you can generate it in audacity a free audio editor.
